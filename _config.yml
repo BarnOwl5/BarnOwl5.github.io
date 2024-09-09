@@ -1,3 +1,4 @@
+theme: jekyll-theme-textalic
 highlighter: rouge
 
 markdown: kramdown
